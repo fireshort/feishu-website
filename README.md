@@ -1,3 +1,5 @@
+
+
 # AI 视频作品集 (Feishu Video Portfolio)
 
 基于 [飞书多维表格 (Feishu Bitable)](https://www.feishu.cn/) 和 GitHub Actions 全自动化构建的极致响应式视频作品集网站。
@@ -34,4 +36,4 @@
 3. 此后系统将在预设时刻或者手动点击下全自动工作！
 
 ---
-**技术栈：** HTML5, CSS3, ES6+, Python 3 (Requests), GitHub Actions CI/CD
+**技术栈：** HTML5, CSS3, ES6+, Python 3 (urllib), GitHub Actions CI/CD
